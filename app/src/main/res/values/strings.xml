@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <array name = "presensi">
+        <item>Hadir Tepat Waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+
+    </array>
+</resources>
